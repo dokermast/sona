@@ -2005,8 +2005,8 @@ __webpack_require__.r(__webpack_exports__);
         cover: ''
       },
       categories: '',
-      books_url: '/books',
-      choose_url: '/choose',
+      books_url: '/sona/books',
+      choose_url: '/sona/choose',
       books: ''
     };
   },
